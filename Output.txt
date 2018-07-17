@@ -1,0 +1,20 @@
+Enter Percentage of variance of original data to be retained -80
+We need 422 components to preserve  80.017591214  variance of data
+
+Enter userid53
+
+
+Movie Recommendation
+
+MovieID MovieTittle
+
+194      Sting, The (1973)
+1196     Savage Nights (Nuits fauves, Les) (1992)
+37       Nadja (1994)
+413      Tales from the Crypt Presents: Bordello of Blood (1996)
+777      Castle Freak (1995)
+26       Brothers McMullen, The (1995)
+553      Walk in the Clouds, A (1995)
+929      Harriet the Spy (1996)
+497      Bringing Up Baby (1938)
+491      Adventures of Robin Hood, The (1938)
